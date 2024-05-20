@@ -1,8 +1,6 @@
-### Olá, meu nome é Guilherme Guth Zahn, estou cursando Sistemas de Informação na Horus Faculdades e atualmente resido em Pinhalzinho-SC.
+### Olá, meu nome é Guilherme Guth Zahn, sou formado em Sistemas de Informação na Horus Faculdades e atualmente resido em Pinhalzinho-SC.
 
 - 🛠️ Atualmente trabalho utilizando JavasScript, PHP, PGSQL...
-- 🕮 Estudando JavaScript, PHP, HTML e CSS...
-
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeguth&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
